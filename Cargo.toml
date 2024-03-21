@@ -8,4 +8,6 @@ repository = "https://github.com/mlgiraud/addr_align"
 readme = "README.md"
 keywords = ["address", "alignment"]
 
+exclude = [".idea"]
+
 [dependencies]
